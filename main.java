@@ -1,3 +1,4 @@
 public int main() {
-System.out.println()
+System.out.println();
+// Комментарий
 }
